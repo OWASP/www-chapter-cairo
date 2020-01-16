@@ -8,26 +8,15 @@ project: true
 level: 4
 region: Africa
 type: chapter
-pitch: The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers. Great for pentesters, devs, QA, and CI/CD integration. 
+pitch: OWASP Cairo Chapter is one of the active OWASP chapters lead by Mohamed Alfateh. 
 ---
 
 
-{front matter for this file}
+OWASP Cairo Chapter - Egypt
+-------------
+Welcome to the Cairo chapter homepage. The chapter leader is Mohamed Alfateh. Chapter Board Members are: <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, Adel Abdel Moneim, Ahmed Saafan and Fady Othman.
+Follow chapter news on [Facebook](https://www.facebook.com/OWASPCairo/) | [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter)
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-
-
-
-## Welcome
-Include some information here about your chapter
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
