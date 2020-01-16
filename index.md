@@ -4,10 +4,8 @@ layout: col-sidebar
 title: OWASP Cairo
 site_side: true
 tags: Egypt
-project: true
 order: 1
 region: Africa
-type: chapter
 pitch: OWASP Cairo Chapter is one of the active OWASP chapters lead by Mohamed Alfateh. 
 ---
 
