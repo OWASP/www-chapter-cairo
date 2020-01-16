@@ -34,7 +34,7 @@ Next Meeting/Event(s)
 
 **Location:** ITI Information Technology Institute - Smart Village - Building, B148, - km 28, Cairo-Alexandria Desert Road, Cairo, Egypt
 
-**Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
+*Time:* Doors Open at 10AM for registration.
 
 #### TALKS
 
