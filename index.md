@@ -3,10 +3,9 @@
 layout: col-sidebar
 title: OWASP Cairo
 site_side: true
-tags: pastevents
+tags: egypt
 order: 1
 region: Africa
-pitch: OWASP Cairo Chapter is one of the active OWASP chapters lead by Mohamed Alfateh. 
 ---
 
 
@@ -28,9 +27,9 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
-### Thursday, 27th February 2020 
-### Thursday, 5th March 2020 
-### Saturday, 4th April 2020 
+-   **Thursday, 27th February 2020** 
+-   **Thursday, 5th March 2020** 
+-   **Saturday, 4th April 2020** 
 
 **Location:** ITI Information Technology Institute - Smart Village - Building, B148, - km 28, Cairo-Alexandria Desert Road, Cairo, Egypt
 
@@ -38,7 +37,7 @@ Next Meeting/Event(s)
 
 #### TALKS
 
--   **Will be posted soon**
+**Will be posted soon**
 
 
 
