@@ -12,7 +12,7 @@ pitch: OWASP Cairo Chapter is one of the active OWASP chapters lead by Mohamed A
 
 OWASP Cairo Chapter - Egypt
 -------------
-Welcome to the Cairo chapter homepage. The chapter leader is Mohamed Alfateh. Chapter Board Members are: <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, Adel Abdel Moneim, Ahmed Saafan and Fady Othman.
+Welcome to the Cairo chapter homepage. The chapter leader is <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a>. Chapter Board Members are: <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a> and Adel Abdel Moneim.
 Follow chapter news on [Facebook](https://www.facebook.com/OWASPCairo/) | [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter)
 
 
