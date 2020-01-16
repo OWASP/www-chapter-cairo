@@ -2,19 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Cairo
-tags: example-tag
-level: 0
-
+site_side: true
+tags: Egypt
+project: true
+level: 4
 region: Africa
-
-auto-migrated: 1
-
+type: chapter
+pitch: The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers. Great for pentesters, devs, QA, and CI/CD integration. 
 ---
 
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 {front matter for this file}
 
@@ -27,7 +23,9 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
+
+
+
 ## Welcome
 Include some information here about your chapter
 
@@ -42,7 +40,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
-```
+
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
