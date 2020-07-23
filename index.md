@@ -25,18 +25,11 @@ Call For Speakers is open - if you would like to present a talk on Application S
 - Everyone is welcome to join us at our chapter meetings.
 
 
-Next Meeting/Event(s)
----------------------
--   **Thursday, 27th February 2020** 
--   **Thursday, 5th March 2020** 
--   **Saturday, 4th April 2020** 
 
-**Location:** ITI Information Technology Institute - Smart Village - Building, B148, - km 28, Cairo-Alexandria Desert Road, Cairo, Egypt
-
-*Time:* Doors Open at 10AM for registration.
 
 #### TALKS
 **OWASP TOP 10 AWARENESS - DAY 8: INSECURE DESERIALIZATION**
+.
 Date: Thursday 27 February 2020
 
 Day Sessions: (Event starts by 10 AM and the First Session starts 10:30 AM)
@@ -51,7 +44,7 @@ Day Sessions: (Event starts by 10 AM and the First Session starts 10:30 AM)
 
 
 **OWASP TOP 10 AWARENESS - DAY 9: USING COMPONENTS WITH KNOWN VULNERABILITIES**
-	
+.	
 While some known vulnerabilities lead to only minor impacts, some of the largest breaches to date have relied on exploiting known vulnerabilities in components. Component-heavy development patterns can lead to development teams not even understanding which components they use in their application or API, much less keeping them up to date. The day 9 includes two sessions covering the relevent web attacks and attacks mitigation. 
 
 Location:ITI Information Technology Institute - Smart Village - Building, B148, - km 28, Cairo, Egypt
@@ -66,6 +59,7 @@ Day Sessions: (First Session starts 10:00 AM Sharp till 12 PM)
 
 
 **OWASP CAIRO CHAPTER ONLINE EVENT IN CORPORATION WITH BLUEKAIZEN**
+.
 First Online Event for OWASP Cairo Chapter In Corporation with Bluekaizen
 Saturday, April 4, 2020 at 6:00 PM (EET)
 
@@ -77,6 +71,7 @@ Event Agenda:
 (By: Azzeldin Alramrami, Adel Abdulmonim, Ahmed Shosha and Mohamed Alfateh)
 
 **OWASP Chapters All Day - Open Live Streaming Event**
+.
 Event to be held at the following time, date, and location:
 
 Saturday, June 6, 2020 at 2:00 PM 
