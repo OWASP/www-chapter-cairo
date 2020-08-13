@@ -25,9 +25,11 @@ Call For Speakers is open - if you would like to present a talk on Application S
 - Everyone is welcome to join us at our chapter meetings.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### Chapter Meetings and Events 2020:
 
-#### TALKS
 **OWASP TOP 10 AWARENESS - DAY 8: INSECURE DESERIALIZATION**
 .
 Date: Thursday 27 February 2020
@@ -43,8 +45,13 @@ Day Sessions: (Event starts by 10 AM and the First Session starts 10:30 AM)
 4- Insecure Deserialization in Python alone with a practical demos 1 (45 min) [By: Mohamed Fadel]
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **OWASP TOP 10 AWARENESS - DAY 9: USING COMPONENTS WITH KNOWN VULNERABILITIES**
 .	
+Date: Thursday 5th of March 2020
+
 While some known vulnerabilities lead to only minor impacts, some of the largest breaches to date have relied on exploiting known vulnerabilities in components. Component-heavy development patterns can lead to development teams not even understanding which components they use in their application or API, much less keeping them up to date. The day 9 includes two sessions covering the relevent web attacks and attacks mitigation. 
 
 Location:ITI Information Technology Institute - Smart Village - Building, B148, - km 28, Cairo, Egypt
@@ -57,6 +64,8 @@ Day Sessions: (First Session starts 10:00 AM Sharp till 12 PM)
 
 2- Practical examples For the using of vulnerable components [By: Fady Othman]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **OWASP CAIRO CHAPTER ONLINE EVENT IN CORPORATION WITH BLUEKAIZEN**
 .
@@ -69,6 +78,9 @@ Event Agenda:
 6:45 PM to 8:00 PM PANEL DISCUSSION: COVID-19's Impact on Cybersecurity Industry
 
 (By: Azzeldin Alramrami, Adel Abdulmonim, Ahmed Shosha and Mohamed Alfateh)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **OWASP Chapters All Day - Open Live Streaming Event**
 .
@@ -83,6 +95,21 @@ Leaders from OWASP Chapters throughout the world invite you to join us for 24 ho
 We’ll kick off the festivities with Welcoming Remarks and a Keynote presentation at 12:00 noon (UTC) on Saturday, 6 June. Then, each hour, the (virtual) floor will be handed over to a leader from another OWASP Chapter, who will introduce speakers from their chapter/region.
 
 The entire event will be live-streamed on the OWASP Chapters All Day YouTube Channel. Each presentation segment (usually one hour in length) is hosted by a different Chapter Leader and will be streamed separately. Live viewers will need to select a new stream to view each host change, while those viewing the recordings later will find 25 videos, listed by hour and host chapter 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Chapter Activities Review Meeting 
+
+Date: Sunday 16th of August 
+Time: 6 PM to 7 PM Egypt Local Time. 
+
+Please use this link to join the meeting:
+https://meet.google.com/irz-asdk-fqx
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 For more detials please visit the event page:
