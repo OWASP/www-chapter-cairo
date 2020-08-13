@@ -42,7 +42,6 @@ https://meet.google.com/irz-asdk-fqx
 
 
 **OWASP Chapters All Day - Open Live Streaming Event**
-.
 Event to be held at the following time, date, and location:
 
 Saturday, June 6, 2020 at 2:00 PM 
