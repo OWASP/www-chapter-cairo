@@ -8,6 +8,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
+* [Meetup](https://www.meetup.com/OWASP-Cairo-Chapter/)
 * [Facebook](https://www.facebook.com/OWASPCairo)
 * [Twitter](https://twitter.com/owaspegypt)
 * [EventBrite](https://www.eventbrite.com/o/owasp-cairo-chapter-6244472455)
