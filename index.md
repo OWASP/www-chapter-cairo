@@ -9,7 +9,7 @@ region: Africa
 ---
 
 
-OWASP Cairo Chapter - Egypt
+OWASP Cairo Chapter
 -------------
 Welcome to the Cairo chapter homepage. The chapter leader is <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a>. Chapter Board Members are: <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a> and Adel Abdel Moneim.
 
