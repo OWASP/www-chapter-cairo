@@ -21,7 +21,7 @@ OWASP Juniors Cyber Security Camp
 ![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)
 #### About This Event
 
-OWASP Cairo chapter in collaboration with **ITI Junior Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
+OWASP Cairo chapter in collaboration with **ITI Juniors Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
 
 We will also run our first juniors capture the flag competitions, where our juniors will practice their obtained knowledge through a series of security challenges and will have a chance to become our Cyber champ
 
