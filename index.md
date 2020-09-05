@@ -16,7 +16,7 @@ Welcome to the Cairo chapter homepage. The chapter leader is <a href="mailto:moh
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
 
-OWASP Junrios Cyber Security Camp
+OWASP Juniors Cyber Security Camp
 ---------------------------------------
 ![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)
 #### About This Event
