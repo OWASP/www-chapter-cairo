@@ -22,7 +22,9 @@ OWASP Junrios Cyber Security Camp
 #### About This Event
 
 OWASP Cairo chapter in collaboration with **ITI Junior Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
+
 We will also run our first juniors capture the flag competitions, where our juniors will practice their obtained knowledge through a series of security challenges and will have a chance to become our Cyber champ
+
 
 **Note: The CTF for Juniors will be announced soon, make sure to register for the event to receive the invitation.**
 
@@ -33,6 +35,7 @@ Online Event - Event online call details will be published later.
 12 September 2020 
 
 **Agenda:**
+
 10:30 - 11:00 Event Registration and Opening
 
 11:00 - 11:45 Network under the hood - Introduction to network analysis [By:  Hassan Morad]
