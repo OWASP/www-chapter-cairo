@@ -16,6 +16,40 @@ Welcome to the Cairo chapter homepage. The chapter leader is <a href="mailto:moh
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
 
+OWASP Junrios Cyber Security Camp
+---------------------------------------
+
+#### Call For Speakers
+
+OWASP Cairo chapter in collaboration with **ITI Junior Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
+We will also run our first juniors capture the flag competitions, where our juniors will practice their obtained knowledge through a series of security challenges and will have a chance to become our Cyber champ
+
+**Note: The CTF for Juniors will be announced soon, make sure to register for the event to receive the invitation.**
+
+**Location:**
+Online Event - Event online call details will be published later.
+
+**Date:**
+12 September 2020 
+
+**Agenda:**
+10:30 - 11:00 Event Registration and Opening
+11:00 - 11:45 Network under the hood - Introduction to network analysis [By:  Hassan Morad]
+11:45 - 12:30 Introduction to Web application security [By:  Mohamed Alfateh]
+12:30 - 01:00 Break
+01:00 - 01:45 Password Cracking [By:  Islam Fathy]
+01:45 - 02:30 Online Quiz Competition
+02:30 - 03:30 Social Engineering Countermeasures [By:  Abdulrahman Elshafei]
+03:30 - 04:00 An Introduction to Forensics Investigation [By:  Adel Abdelmoniom]
+04:00 - 05:00 PANEL DISCUSSION: Cybersecurity Career Paths
+(By: Ahmed Shosha, Moustafa Siraj and Mohamed Alfateh)
+05:00 Event Closing and Competition Winners Announcement
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Speaking at OWASP Cairo Chapter Events
 ---------------------------------------
 
