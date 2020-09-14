@@ -11,7 +11,13 @@ region: Africa
 # Juniors CTF
 ![JuniorsCTF](/assets/images/OWASP_ITI_Juniors.png)
 
-Juniors CTF is a CTF targeted at  kids/adults ages 12 to 16, The goal of the CTF is to introduce the younger audience to CTFS, the challenges are designed in a way that makes them easy to solve without much experience.
+Juniors CTF is a CTF targeted at  kids/adults ages 12 to 16, The goal of the CTF is to introduce the younger audience to CTFS, the challenges are designed in a way that makes them easy to solve without much experience, This competition is aiming to graduate talented young calibers in the domain of cybersecurity.
+
+For those who will manage to pass the event exercises and achieve the requested tasks effectively and with high quality, ITI will dedicate time and resources for such talented juniors in this distinguished event, and moreover the prizes for the top trainees in that event is really a surprise.
+
+The top three winners of that competition will have the opportunity to receive a training course on cybersecurity from Palo Alto in the mid-year vacation. Palo Alto is known to be ranked as the 3rd world-wide in the domain of cybersecurity with a portfolio of a highly reputed products and excellent training capabilities as well.
+
+The next five winners will be offered training interns by ITI in the mid-year vacation as well where they will have the chance to show and investigate their talents and become the youngest cybersecurity specialists in Egypt.
 
 ## Time
 
