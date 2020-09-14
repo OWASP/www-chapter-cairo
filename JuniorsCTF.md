@@ -1,3 +1,13 @@
+---
+
+layout: col-sidebar
+title: OWASP Cairo
+site_side: true
+tags: egypt
+order: 1
+region: Africa
+---
+
 # Juniors CTF
 ![JuniorsCTF](/assets/images/OWASP_ITI_Juniors.png)
 
