@@ -36,4 +36,4 @@ Once you solved a challenge, you post the flag and you get the points!.
 
 
 ## Need some examples?
-You can find some example challenges [Here](/JuniorsCTFWriteUp).
+You can find some example challenges [Here](JuniorsCTFWriteUp).
