@@ -33,3 +33,7 @@ The CTF will start at 1:00 PM Friday (September 18th 2020) - Egypt time and will
 On the day of the event visit [the event page](https://owaspcairo.cybertalents.com/), you will find the instructions and rules regarding the event.
 
 Once you solved a challenge, you post the flag and you get the points!.
+
+
+## Need some examples?
+You can find some example challenges [Here](/JuniorsCTFWriteUp).
