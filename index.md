@@ -18,7 +18,7 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 
 OWASP Juniors Cyber Security Camp
 ---------------------------------------
-[![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)](/www-chapter-cairo/JuniorsCTF)
+![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)
 #### About This Event
 
 OWASP Cairo chapter in collaboration with **ITI Juniors Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
