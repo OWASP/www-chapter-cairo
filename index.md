@@ -15,6 +15,17 @@ Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:m
 
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
+Speaking at OWASP Cairo Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Cairo Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leader 
+- Everyone is welcome to join us at our chapter meetings.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Cyber Security Event - December 2020
@@ -89,17 +100,6 @@ Online Event - Event online call details will be published later.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Speaking at OWASP Cairo Chapter Events
----------------------------------------
-
-#### Call For Speakers
-
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Cairo Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leader 
-- Everyone is welcome to join us at our chapter meetings.
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Chapter Activities Review Meeting 
 
