@@ -16,6 +16,32 @@ Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:m
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
 
+
+Cyber Security Event - December 2020
+---------------------------------------
+![GitHub Logo](/assets/images/logoITI.jpg)
+
+**Location:**
+Online Event - https://zoom.us/j/95056044695?pwd=aEpYWnFuR0syZllTTndzdHNNaEltQT09
+
+**Date:**
+Saturday, December 26, 2020
+
+**Agenda:**
+
+10:30 - 11:30 New Trends in Ransomware Attacks [By: Ahmed Shousha] 
+
+11:30 - 12:30 The Blue Team in Action [By: Ahmed Anasl]
+During the session we will discuss how The Blue team can be a step ahead and how to find ways to defend, change and re-group defense mechanisms to make incident response much stronger. We will throw some light on SolarWinds hack.
+
+12:30 - 13:00 Introduction to Web application security [By:  Mohamed Alfateh]
+
+13:00 Event Closing
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 OWASP Juniors Cyber Security Camp
 ---------------------------------------
 ![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)
