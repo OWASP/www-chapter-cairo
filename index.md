@@ -42,7 +42,7 @@ Saturday, December 26, 2020
 
 10:30 - 11:30 New Trends in Ransomware Attacks [By: Ahmed Shousha] 
 
-11:30 - 12:30 The Blue Team in Action [By: Ahmed Anasl]
+11:30 - 12:30 The Blue Team in Action [By: Ahmed Anas]
 During the session we will discuss how The Blue team can be a step ahead and how to find ways to defend, change and re-group defense mechanisms to make incident response much stronger. We will throw some light on SolarWinds hack.
 
 12:30 - 13:00 Introduction to Web application security [By:  Mohamed Alfateh]
