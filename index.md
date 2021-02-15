@@ -34,7 +34,9 @@ Cyber Security Event - Feb 2021
 Online Event - https://zoom.us/j/92885669159?pwd=QWpnKzdQVldnMlZSOHVaYUVaSXNIZz09
 
 Registration Links:
+
 https://www.eventbrite.com/e/owasp-cairo-cyber-security-event-feb-2021-tickets-141725748529
+
 https://www.meetup.com/OWASP-Cairo-Chapter/events/276383521/
 
 **Date:**
@@ -44,9 +46,13 @@ Saturday, February 20, 2021
 
 Event Agenda:
 1- How to Participate in Cairo Chpater Activites in Y2021 [By: Mohamed Alfateh] 10:30 to 11:00 
+
 2- Secure SDLC with Owasp SAMM Model [By: Moustafa Gamal] 11:00 to 12:00
+
 3- Break 12:00 to 12:30
+
 4- OWASP Top 10 [By: Ahmed Selhab] 12:30 to 13:30
+
 5- Online Live Competition 13:30 to 14:00 - Winners will get OWASP T-Shirt.
 
 
