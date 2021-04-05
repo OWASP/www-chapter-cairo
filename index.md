@@ -27,6 +27,39 @@ Call For Speakers is open - if you would like to present a talk on Application S
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### Cyber Security Event - April 2021
+
+![GitHub Logo](/assets/images/logoITI.jpg)
+
+**Location:**
+Online Event - https://zoom.us/j/98513536851?pwd=cEVOZ0Z1TVgwdkp0Um1XbFlRSGZ4UT09.
+
+Registration Links:
+
+https://www.eventbrite.com/e/owasp-cairo-cyber-security-event-april-2021-tickets-149412140735.
+
+https://www.meetup.com/OWASP-Cairo-Chapter/events/277375277/.
+
+**Date:**
+Friday, April 9, 2021
+
+**Agenda:**
+
+Event Agenda:
+1- Event Opening and Registration 13:15 to 13:30 
+
+2- Introduction to Cloud Security [By: Ahmed Nabil] 13:30 to 14:15
+
+3- Analysis for APT 29 from SOC view [By: Mostafa Yahia] 14:15 to 15:00
+
+4- Righteous Reports: How to Make ?Pentest Reports Right [By: Ahmed Saafan]  15:00 to 15:45
+
+5- Online Live Competition 15:45 to 16:15 - Winners will get OWASP T-Shirt.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Cyber Security Event - Feb 2021
 
 ![GitHub Logo](/assets/images/logoITI.jpg)
