@@ -48,7 +48,7 @@ Friday, April 9, 2021
 Event Agenda:
 1- Event Opening and Registration 13:15 to 13:30 
 
-2- Introduction to Cloud Security [By: Ahmed Nabil] 13:30 to 14:15
+2- Securing your Cloud data and applications best practices [By: Ahmed Nabil] 13:30 to 14:15
 
 3- Analysis for APT 29 from SOC view [By: Mostafa Yahia] 14:15 to 15:00
 
