@@ -6,6 +6,7 @@ site_side: true
 tags: egypt
 order: 1
 region: Africa
+meetup-group: OWASP-Cairo-Chapter
 ---
 
 
@@ -14,6 +15,14 @@ OWASP Cairo Chapter
 Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a>, <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a> and Adel Abdel Moneim.
 
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Cairo Meetup Group](https://www.meetup.com/OWASP-Cairo-Chapter/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 Speaking at OWASP Cairo Chapter Events
 ---------------------------------------
