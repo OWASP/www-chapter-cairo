@@ -16,7 +16,7 @@ Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:m
 
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
-![GitHub Logo](/assets/images/OWASP 20th Anniversary.jpeg)
+![GitHub Logo](/assets/images/OWASP_20th_Anniversary.jpeg)
 
 
 [SPONSORSHIPS](https://20thanniversary.owasp.org/sponsors/) are NOW being accepted! 
