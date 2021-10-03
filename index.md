@@ -44,11 +44,17 @@ Saturday, October 16, 2021
 **Agenda:**
 
 Event Agenda:
+
 10:00 to 10:15 How to open an OWASP project.
+
 10:15 to 11:00 OWASP Incubator projects (1).
+
 11:00 to 11:45 OWASP Incubator projects (2).
+
 11:45 to 12:30 OWASP Lab projects.
+
 12:30 to 13:00 OWASP Flagship projects.
+
 13:00 to 13:30 Online Live Competition - Winners will get OWASP T-Shirt.
 
 
