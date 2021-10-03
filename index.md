@@ -16,11 +16,6 @@ Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:m
 
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
-![GitHub Logo](/assets/images/OWASP_20th_Anniversary.jpeg)
-
-
-[SPONSORSHIPS](https://20thanniversary.owasp.org/sponsors/) are NOW being accepted! 
-
 ### Upcoming Meetings
 
 We schedule our meetings on the [OWASP Cairo Meetup Group](https://www.meetup.com/OWASP-Cairo-Chapter/)
@@ -29,13 +24,32 @@ We schedule our meetings on the [OWASP Cairo Meetup Group](https://www.meetup.co
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-Speaking at OWASP Cairo Chapter Events
----------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Call For Speakers
+#### OWASP Chapter Event (Intorduction to OWASP Projects) - October 2021
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Cairo Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leader 
-- Everyone is welcome to join us at our chapter meetings.
+![GitHub Logo](/assets/images/)
+
+**Location:**
+Online Event - .
+
+Registration Links:
+
+Will be avaible soon
+
+**Date:**
+Saturday, October 16, 2021
+
+**Agenda:**
+
+Event Agenda:
+10:00 to 10:15 How to open an OWASP project.
+10:15 to 11:00 OWASP Incubator projects (1).
+11:00 to 11:45 OWASP Incubator projects (2).
+11:45 to 12:30 OWASP Lab projects.
+12:30 to 13:00 OWASP Flagship projects.
+13:00 to 13:30 Online Live Competition - Winners will get OWASP T-Shirt.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
