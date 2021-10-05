@@ -29,7 +29,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 #### OWASP Projects and Cyber Security Research Ideas - October 2021
 
-![GitHub Logo](/assets/images/Logo - Copy.png)
+![GitHub Logo](/assets/images/OWASP_Egypt_logo.png)
 
 **Location:**
 Online Event - .
