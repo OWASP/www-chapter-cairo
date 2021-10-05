@@ -12,7 +12,7 @@ meetup-group: OWASP-Cairo-Chapter
 
 OWASP Cairo Chapter
 -------------
-Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a>, <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a> and Adel Abdel Moneim.
+Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a> and <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, chatpter board members are <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a>, Adel Abdel Moneim, Ahmed Yousif, Asmaa Kotb, Joey Joseph, Mahmoud Elhindy, Mohamad Ahmed and Mohamed Hani.
 
 Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
 
@@ -27,7 +27,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### OWASP Chapter Event (Intorduction to OWASP Projects) - October 2021
+#### OWASP Projects and Cyber Security Research Ideas - October 2021
 
 ![GitHub Logo](/assets/images/)
 
@@ -35,8 +35,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 Online Event - .
 
 Registration Links:
-
-Will be avaible soon
+https://www.eventbrite.com/myevent?eid=184432170587
 
 **Date:**
 Saturday, October 16, 2021
@@ -45,18 +44,17 @@ Saturday, October 16, 2021
 
 Event Agenda:
 
-10:00 to 10:15 How to open an OWASP project.
+1- How to open an OWASP project [By: Mohamed Alfateh]. 10:00 to 10:15 
 
-10:15 to 11:00 OWASP Incubator projects (1).
+2- OWASP Incubator projects, ideas for Research (1) [By: Ahmed Yousif]. 10:15 to 11:00 
 
-11:00 to 11:45 OWASP Incubator projects (2).
+3- OWASP Incubator projects, ideas for Research (2)[By: Joey Joseph]. 11:00 to 11:45 
 
-11:45 to 12:30 OWASP Lab projects.
+4- OWASP Lab projects. 11:45 to 12:30 
 
-12:30 to 13:00 OWASP Flagship projects.
+5- OWASP Flagship projects. 12:30 to 13:00 
 
-13:00 to 13:30 Online Live Competition - Winners will get OWASP T-Shirt.
-
+6- Online Live Competition - Winners will get OWASP T-Shirt. 13:00 to 13:30 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
