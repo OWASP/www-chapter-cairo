@@ -50,7 +50,7 @@ Event Agenda:
 
 3- OWASP Incubator projects, ideas for Research (2)[By: Joey Joseph]. 11:00 to 11:45 
 
-4- OWASP Lab projects. 11:45 to 12:30 
+4- OWASP Lab projects [By: Mahmoud Elhindy]. 11:45 to 12:30 
 
 5- OWASP Flagship projects. 12:30 to 13:00 
 
