@@ -14,7 +14,7 @@ OWASP Cairo Chapter
 -------------
 Welcome to the Cairo chapter homepage. The chapter leaders are <a href="mailto:mohamed.alfateh@owasp.org">Mohamed Alfateh</a> and <a href="mailto:hassan.mourad@owasp.org">Hassan Mourad</a>, chapter board members are <a href="mailto:fady.othman@owasp.org">Fady Othman</a>, <a href="mailto:ahmed.saafan@owasp.org">Ahmed Saafan</a>, Adel Abdel Moneim, Ahmed Yousif, Asmaa Kotb, Joey Joseph, Mahmoud Elhindy, Mohamad Ahmed and Mohamed Hani.
 
-Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | [Join Chapter Slack Group](https://join.slack.com/share/zt-gntsswme-84zLLkdmcEdUvKPnYc~UUA)
+Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/?pli=1#!forum/cairo-chapter) | Join Chapter Slack Group: #owasp-egypt
 
 ### Upcoming Meetings
 
