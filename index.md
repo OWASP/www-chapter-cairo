@@ -26,10 +26,10 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 Supply chain attacks have been a concern for cybersecurity experts for many years because the chain reaction triggered by one attack on a single supplier can compromise a wide range of downstream systems. Strong security protection is no longer enough for organizations when attackers have already shifted their attention to suppliers. This is evidenced by the increasing impact of these attacks, such as downtime of systems, monetary loss, and reputational damage. 
 The Log4j vulnerability brings attention to an emerging cybersecurity risk area: third-party vulnerabilities. Patching it has become an arms race for enterprises and government agencies. Due to the uptick in supply chain attacks, this event is to bring the Financial community in Egypt together to discuss the Log4j vulnerability as an example of the impact of supply chain threats, best practices, mitigation tactics, and strategies to govern their risks.
 
-![GitHub Logo](/assets/images/OWASP_Egypt_logo.png)
+![GitHub Logo](/assets/images/logo_feb1.png)
 
 **Location:**
-Online Event - .
+Online Event: The event is organized by FEB, and it is free and open for anyone working in the financial sector. 
 
 **Date:**
 Tuesday, Jan 18, 2022
