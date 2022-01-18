@@ -18,6 +18,34 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 
 ### Upcoming Meetings
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### OWASP Cairo Chapter - FEB Workshop on : Log4J Vulnerability: A Lesson in Software Supply Chain Risks
+
+Supply chain attacks have been a concern for cybersecurity experts for many years because the chain reaction triggered by one attack on a single supplier can compromise a wide range of downstream systems. Strong security protection is no longer enough for organizations when attackers have already shifted their attention to suppliers. This is evidenced by the increasing impact of these attacks, such as downtime of systems, monetary loss, and reputational damage. 
+The Log4j vulnerability brings attention to an emerging cybersecurity risk area: third-party vulnerabilities. Patching it has become an arms race for enterprises and government agencies. Due to the uptick in supply chain attacks, this event is to bring the Financial community in Egypt together to discuss the Log4j vulnerability as an example of the impact of supply chain threats, best practices, mitigation tactics, and strategies to govern their risks.
+
+![GitHub Logo](/assets/images/OWASP_Egypt_logo.png)
+
+**Location:**
+Online Event - .
+
+**Date:**
+Tuesday, Jan 18, 2022
+
+**Agenda:**
+
+1- Open Source and Third-Party Library Management [By: Jim Manico]. 14:00-14:45
+
+2- Building an Enterprise Strategy to deal with Log4j Vulnerability. 14:45-15:30
+
+3- Q/A: 15:30 - 16:00
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 We schedule our meetings on the [OWASP Cairo Meetup Group](https://www.meetup.com/OWASP-Cairo-Chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
