@@ -21,41 +21,20 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 
 Please refer to Meetup chapter page for the full list of chatper events:
 https://www.meetup.com/owasp-cairo-chapter/
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### OWASP Cairo Chapter - API Security and Digital Banking Threats
-
-
-![GitHub Logo](/assets/images/logo_feb1.png)
-
-**Location:**
-Online Event: The event is organized by FEB, and it is free and open for anyone working in the financial sector. 
-
-**Date:**
-Thursday, November 3, 2022
-
-**Agenda:**
-
-1- API Security Threats 
-
-2- Discussion about the Digital Banking Cyber Security Threats
-
-3- Q/A
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### OWASP Cairo Chapter - FEB Workshop on : Log4J Vulnerability: A Lesson in Software Supply Chain Risks
+#### OWASP Cairo Chapter - Log4J Vulnerability: A Lesson in Software Supply Chain Risks
 
 Supply chain attacks have been a concern for cybersecurity experts for many years because the chain reaction triggered by one attack on a single supplier can compromise a wide range of downstream systems. Strong security protection is no longer enough for organizations when attackers have already shifted their attention to suppliers. This is evidenced by the increasing impact of these attacks, such as downtime of systems, monetary loss, and reputational damage. 
 The Log4j vulnerability brings attention to an emerging cybersecurity risk area: third-party vulnerabilities. Patching it has become an arms race for enterprises and government agencies. Due to the uptick in supply chain attacks, this event is to bring the Financial community in Egypt together to discuss the Log4j vulnerability as an example of the impact of supply chain threats, best practices, mitigation tactics, and strategies to govern their risks.
 
-![GitHub Logo](/assets/images/logo_feb1.png)
+
 
 **Location:**
-Online Event: The event is organized by FEB, and it is free and open for anyone working in the financial sector. 
+Online Event: The Event is free and open for anyone but seats are limitted. 
 
 **Date:**
 Tuesday, Jan 18, 2022
@@ -115,7 +94,7 @@ Event Agenda:
 
 #### Cyber Security Event - April 2021
 
-![GitHub Logo](/assets/images/logoITI.jpg)
+
 
 **Location:**
 Online Event - https://zoom.us/j/98513536851?pwd=cEVOZ0Z1TVgwdkp0Um1XbFlRSGZ4UT09.
@@ -148,7 +127,7 @@ Event Agenda:
 
 #### Cyber Security Event - Feb 2021
 
-![GitHub Logo](/assets/images/logoITI.jpg)
+
 
 **Location:**
 Online Event - https://zoom.us/j/92885669159?pwd=QWpnKzdQVldnMlZSOHVaYUVaSXNIZz09.
@@ -182,7 +161,7 @@ Event Agenda:
 
 Cyber Security Event - December 2020
 ---------------------------------------
-![GitHub Logo](/assets/images/logoITI.jpg)
+
 
 **Location:**
 Online Event - https://zoom.us/j/95056044695?pwd=aEpYWnFuR0syZllTTndzdHNNaEltQT09
@@ -207,7 +186,7 @@ During the session we will discuss how The Blue team can be a step ahead and how
 
 OWASP Juniors Cyber Security Camp
 ---------------------------------------
-![GitHub Logo](/assets/images/OWASP_ITI_Juniors.png)
+
 #### About This Event
 
 OWASP Cairo chapter in collaboration with **ITI Juniors Academy** brings you the first Cybersecurity Virtual Camp: a brand new, completely FREE program designed to get kids/adults ages 12 to 16 hands on with some of the hottest – and more important – topics in Cybersecurity field today from the comfort of home.
