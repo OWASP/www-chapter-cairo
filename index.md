@@ -22,15 +22,17 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 Please refer to Meetup chapter page for the full list of chatper events:
 https://www.meetup.com/owasp-cairo-chapter/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Below are the old events organized by OWASP Cairo Chapter. The complete list and the planning events are now managed through the chapter Meetup page.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #### OWASP Cairo Chapter - API Security and Digital Banking Threats
 
 
 ![GitHub Logo](/assets/images/logo_feb1.png)
-
-**Location:**
-Online Event: The event is organized by FEB, and it is free and open for anyone working in the financial sector. 
 
 **Date:**
 Thursday, November 3, 2022
@@ -54,8 +56,6 @@ The Log4j vulnerability brings attention to an emerging cybersecurity risk area:
 
 ![GitHub Logo](/assets/images/logo_feb1.png)
 
-**Location:**
-Online Event: The event is organized by FEB, and it is free and open for anyone working in the financial sector. 
 
 **Date:**
 Tuesday, Jan 18, 2022
