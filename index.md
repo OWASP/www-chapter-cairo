@@ -5,7 +5,8 @@ title: OWASP Cairo
 site_side: true
 tags: egypt
 order: 1
-region: Africa
+region:  Africa
+country:  Egypt
 meetup-group: OWASP-Cairo-Chapter
 ---
 
