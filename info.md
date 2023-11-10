@@ -22,7 +22,14 @@
 * [changes](https://github.com/OWASP/www-chapter-cairo/commits/master)
 
 ### Board Members
-* [Hassan Mourad](mailto:hassan.mourad@owasp.org)
 * [Adel Abdel Moneim]
 * [Ahmed Saafan]
 * [Fady Othman]
+* [Ahmed Abdullah]
+* [Ahmed Shousha]
+* [Joey Josef]
+* [Mohamed Hani]
+* [George Fahmy]
+* [Khaled Mansour]
+* [Khaled Battah]
+* [Yaser Elsenbary]
