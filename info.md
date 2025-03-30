@@ -22,17 +22,16 @@
 * [changes](https://github.com/OWASP/www-chapter-cairo/commits/master)
 
 ### Board Members
-* [Adel Abdel Moneim]
-* [Ahmed Saafan]
-* [Fady Othman]
-* [Ahmed Abdullah Youssif]
-* [Ahmed Shousha]
-* [Heba Farahat] 
-* [Amr Ragheb]
-* [Ayman Hussein]
-* [Mohamed Abumuslim]
-* [Mohamed Hani]
-* [George Fahmy]
-* [Sara Zidan]
-* [Khaled Battah]
-* [Habiba Ali]
+* Adel Abdel Moneim
+* Ahmed Abdullah Youssif
+* Ahmed Saafan
+* Ahmed Shousha
+* Amr Ragheb
+* Ayman Hussein
+* Fady Othman
+* George Fahmy
+* Habiba Ali
+* Heba Farahat
+* Khaled Battah
+* Mohamed Abumuslim
+* Sara Zidan
