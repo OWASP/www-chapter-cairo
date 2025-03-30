@@ -21,10 +21,10 @@ Follow chapter news on [Twitter](https://twitter.com/owaspegypt) | [Join Chapter
 
 
 Please refer to Meetup chapter page for the full list of chatper events:
-https://www.meetup.com/owasp-cairo-chapter/
+[Cairo Chapter Meetup page](https://www.meetup.com/owasp-cairo-chapter/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Below are the old events organized by OWASP Cairo Chapter. The complete list and the planning events are now managed through the chapter Meetup page.
+#### Below are the old events organized by OWASP Cairo Chapter. The complete list and the planning events are now managed through the [Cairo Chapter Meetup page](https://www.meetup.com/owasp-cairo-chapter/) .
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
