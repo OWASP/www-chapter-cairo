@@ -25,11 +25,156 @@ Please refer to Meetup chapter page for the full list of chatper events:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Below are the old events organized by OWASP Cairo Chapter. The complete list and the planning events are now managed through the [Cairo Chapter Meetup page](https://www.meetup.com/owasp-cairo-chapter/) .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - Deep Dive into Mobile Security & Code Review
+
+
+**Date:**
+Saturday, August 30, 2025
+
+**Agenda:**
+
+1-  Advanced Mobile Pentesting Techniques.
+
+2-  Source Code Review: Tips and Tricks.
+
+**Speakers:**
+
+1- Hatem Mohamed Abdallah 
+
+2- Fady Othman  
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/310727073/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+  
+- Q/A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - design secure systems and navigate the risks of emerging AI technologies
+
+
+**Date:**
+Saturday, August 9, 2025
+
+**Agenda:**
+
+1-  spot risks early through threat modeling and build secure apps from the start.
+
+2-  the real-world risks of Agentic AI and how to design safer systems.
+
+**Speakers:**
+
+1- Khaled Alaa Battah
+
+2- Ahmad Abd-Allah 
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/310335503/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+
+  
+- Q/A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - Secure Your Graduation Project with OWASP: From Flagship to Innovation
+
+
+**Date:**
+Saturday, July 26, 2025
+
+**Agenda:**
+
+1- OWASP Flagship Projects
+
+2-  Incubated Projects
+
+**Speakers:**
+
+1- Ahmad Abd-Allah
+
+2- Joey Joseph
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/310105721/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+  
+- Q/A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - How AI is changing security
+
+
+**Date:**
+Saturday, July 19, 2025
+
+**Agenda:**
+
+1- Dreadnode, dyana: A Hacker’s Sandbox for Profiling ML Models, Binaries & Beyond
+
+2- Building Your AI Hacking Assistant
+
+**Speakers:**
+
+1- Ads, Staff AI Security Researcher at Dreadnode
+
+2- Fady Othman
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/309128826/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+
+  
+- Q/A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - AI Security Guidelines & SBOM: Strengthening Software Transparency and Trust
+
+
+**Date:**
+Saturday, June 14, 2025
+
+**Agenda:**
+
+1- AI Security Guidelines
+
+2- Software Bill of Materials (SBOM)
+
+**Speakers:**
+
+1- Hassan Mourad 
+
+2- Mohamed Magdy AbuMuslim 
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/307819336/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+  
+- Q/A
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### OWASP Cairo Chapter - AI and Cybersecurity: Navigating the Future
 
 
+**Date:**
+Saturday, April 12, 2025
+
+**Agenda:**
+
+1- Agentic AI and the Impact on Cybersecurity
+
+2- Intro to Vulnerability Research: How to Start
+
+**Speakers:** 
+
+1- Ahmed Shosha
+
+2- Fady Othman
+
+**Meetup:** 
+[Meetup Link](https://www.meetup.com/owasp-cairo-chapter/events/307006092/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
+
+- Q/A
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### OWASP Cairo Chapter - API Security and Digital Banking Threats
 
 
@@ -43,6 +188,7 @@ Thursday, November 3, 2022
 1- API Security Threats 
 
 2- Discussion about the Digital Banking Cyber Security Threats
+
 
 3- Q/A
 
