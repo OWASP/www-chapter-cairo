@@ -7,8 +7,8 @@ leaders:
 location:
   country: Egypt
   country_code: EG
-  region: Cairo Governorate
-  city: Cairo
+  region: Greater Cairo
+  city: Cairo 
   latitude: 30.0443879
   longitude: 31.2357257
 meetup_group: OWASP-Cairo-Chapter
