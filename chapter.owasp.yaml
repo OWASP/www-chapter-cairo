@@ -1,0 +1,24 @@
+leaders:
+  - name: Mohamed Alfateh
+    email: mohamed.alfateh@owasp.org
+    github: Mohfateh
+  - name: Hassan Mourad
+    email: hassan.mourad@owasp.org
+location:
+  country: Egypt
+  country_code: EG
+  region: Cairo Governorate
+  city: Cairo
+  latitude: 30.0443879
+  longitude: 31.2357257
+meetup_group: OWASP-Cairo-Chapter
+name: OWASP Cairo
+repositories:
+  - name: www-chapter-cairo
+    url: https://github.com/OWASP/www-chapter-cairo
+    description: OWASP Foundation Web Repository
+tags:
+  - egypt
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cairo
